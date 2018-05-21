@@ -1,1 +1,1 @@
-cat flight-delays.zip.part-* > flight-delays.zip
+cat flight.zip.part-* > flight.zip
